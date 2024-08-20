@@ -8,8 +8,7 @@ This project focuses on detecting intrusions in distributed systems by leveragin
 2. [Usage](#usage)
 3. [Datasets](#datasets)
 4. [Contributing](#contributing)
-5. [License](#license)
-
+   
 ## Datasets Used
 The following datasets are utilized in this project:
 
@@ -17,4 +16,4 @@ The following datasets are utilized in this project:
 2. [Power System Intrusion Dataset](https://www.kaggle.com/datasets/sequincozes/power-system-intrusion-dataset?resource=download) - A dataset that includes data related to intrusion detection in power systems.
 
 ## License
-This project is licensed under the terms of the [MIT License](https://github.com/peenalGupta/Threat-Detection-in-Distributed-Systems/blob/main/LICENSE).
+This project is licensed under the terms of the [Apache 2.0 License](https://github.com/peenalGupta/Threat-Detection-in-Distributed-Systems/blob/main/LICENSE).
