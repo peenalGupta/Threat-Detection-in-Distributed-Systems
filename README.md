@@ -8,7 +8,7 @@ A brief description of your project, what it does, and why it's useful.
 2. [Usage](#usage)
 3. [Datasets](#datasets)
 4. [Contributing](#contributing)
-5. [License]([#license](https://github.com/peenalGupta/Threat-Detection-in-Distributed-Systems/blob/main/LICENSE))
+5. [License][#https://github.com/peenalGupta/Threat-Detection-in-Distributed-Systems/blob/main/LICENSE]
 
 ## Datasets Used
 
